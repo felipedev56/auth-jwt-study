@@ -160,6 +160,51 @@ h3 {
     color: green;
 }
 
+#password-rules {
+    list-style: none;
+    padding: 0;
+    margin: -8px 0 14px 0;
+    font-size: 12px;
+}
 
+#password-rules li {
+    padding: 2px 0;
+    color: #57606a;
+}
 
+#password-rules li.rule-ok {
+    color: #2da44e;
+}
 
+#password-rules li.rule-fail {
+    color: #cf222e;
+}
+
+#register-form {
+    width: 100%;
+}
+
+#register-form label {
+    font-size: 14px;
+    font-weight: 500;
+    color: #24292f;
+    display: block;
+    margin-bottom: 4px;
+}
+
+#register-form input {
+    width: 100%;
+    padding: 10px 12px;
+    margin-top: 6px;
+    margin-bottom: 15px;
+    border: 1px solid #d0d7de;
+    border-radius: 6px;
+    font-size: 14px;
+    box-sizing: border-box;
+}
+
+#register-form input:focus {
+    outline: none;
+    border-color: #2273cf;
+    box-shadow: 0 0 0 0.5px #0969da;
+}
