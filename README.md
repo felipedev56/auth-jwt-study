@@ -35,6 +35,9 @@ Abra o arquivo `frontend/index.html` no navegador (ou use o Live Server).
 
 ## 📁 Estrutura do projeto
 
+## 📁 Estrutura do projeto
+
+```
 auth-jwt-study/
 │
 ├── backend/
@@ -60,6 +63,7 @@ auth-jwt-study/
 │   └── home.html               # Página protegida
 │
 └── README.md
+```
 
 ## 📋 Funcionalidades
 
