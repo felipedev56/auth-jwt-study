@@ -33,7 +33,6 @@ node server.js
 
 Abra o arquivo `frontend/index.html` no navegador (ou use o Live Server).
 
-## 📁 Estrutura do projeto
 
 ## 📁 Estrutura do projeto
 
